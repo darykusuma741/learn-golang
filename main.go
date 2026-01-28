@@ -1,9 +1,9 @@
 package main
 
 import (
-	"learn-golang/pkg/conditionals"
+	"learn-golang/pkg/loops"
 )
 
 func main() {
-	conditionals.ConditionalsExample()
+	loops.ForLoopAdvancedExample()
 }

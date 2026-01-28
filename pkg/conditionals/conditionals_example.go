@@ -57,7 +57,7 @@ func ConditionalsExample() {
 	// ==============================
 	// Type switch
 	// ==============================
-	var example interface{} = 3.14
+	var example any = 3.14
 
 	switch v := example.(type) {
 	case int:
