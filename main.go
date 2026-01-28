@@ -1,7 +1,7 @@
 package main
 
 import (
-	"learn-basic-goolang/pkg/loops"
+	"learn-basic-golang/pkg/loops"
 )
 
 func main() {
