@@ -1,7 +1,9 @@
 package main
 
-import "fmt"
+import (
+	hello_world "learn-golang/pkg"
+)
 
 func main() {
-	fmt.Println("Hello World")
+	hello_world.SayHello()
 }
